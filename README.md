@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4999&color=351FF0C8&center=true&vCenter=true&lines=I+am+Ata+ul+Munim+.+Student+at+GCUF.)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
@@ -20,7 +21,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" />
 </h1>
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=351FF0C8&lines=I+am+Ata+ul+Munim+.+Student+at+GCUF.)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
