@@ -38,7 +38,11 @@ I am a cs Student, developer of cross Platform Apps, <img src="https://media.gip
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atta-ul-munim-6aaa84222/)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Daniyal98&margin-w=30" alt="Daniyal98" /></a> </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Daniyal98&label=Profile%20views&color=0e75b6&style=flat" alt="Daniyal98" /> </p>
+
+<p align="center"> <a href="https://twitter.com/_Daniyal98" target="blank"><img src="https://img.shields.io/twitter/follow/_Daniyal98?logo=twitter&style=for-the-badge" alt="@ali" /></a> </p>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
