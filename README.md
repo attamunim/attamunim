@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4999&color=351FF0C8&center=true&vCenter=true&lines=I+am+Ata+ul+Munim+.+Working+at+RNSML.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4999&color=351FF0C8&center=true&vCenter=true&lines=I+am+Ata+ul+Munim.)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
